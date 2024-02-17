@@ -1,0 +1,99 @@
+.container{
+    width: 80%;
+    margin: 0px auto; 
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* gap: 900px; */
+    /* padding-left: 55px ;
+    padding-right: 55px ; */
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+  float: left;
+  list-style: none;
+  gap: 20px;
+  cursor: pointer;
+  font-weight: 600;
+  color: gray;
+}
+
+.navbar 
+.logo > h4{
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.navbar > li{
+    display: inline-block;
+}
+.second{
+    display: flex;
+    justify-content: space-between;
+    align-items: center     ;
+    
+
+}
+.boldtext{
+    font-weight: 500;
+    font-size: xxx-large;
+    margin-top: 55px;
+}
+.simple{
+
+}
+
+.third > input {
+
+    width: 250px;
+    height: 40px;
+
+}
+.third > button{
+    background-color: greenyellow;
+    height: 40px;
+    width: 90px;
+    border-radius: 10px;
+    border: 0px solid white;
+    font-size: smaller;
+}
+.second > img{
+    height: 100px;
+    width: 100px;
+    /* margin-left: 500px; */
+}
+.third{
+    /* margin-top: -50px; */
+}
+
+.fourth{
+    display: flex;
+    /* justify-content: center; */
+}
+.five{
+    display: flex ;
+    justify-content: center; */
+    flex-direction: column; 
+    
+   
+}
+.heading1{
+    color: yellow;
+    flex-direction: column;
+    margin-left: 
+    
+    
+
+}
+.heading2{
+    flex-direction: ;
+}
+
+.papa{
+    display: flex;
+}
